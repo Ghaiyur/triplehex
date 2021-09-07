@@ -1,7 +1,7 @@
 # Triple Hex
  A text-based math puzzle decipher game
  
-## how to play
+## How to play
 
 - Run 'triplehex.exe'
 - Choose a difficulty (A number between 1 to n)
